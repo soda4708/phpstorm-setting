@@ -4,6 +4,8 @@
       <mapping ext="vue" type="HTML" />
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="csvimport_UzIR1g" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <removed_mapping ext="vue" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
